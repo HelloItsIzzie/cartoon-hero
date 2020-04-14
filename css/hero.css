@@ -68,3 +68,18 @@ p.caption {
 	font-style:italic;
 	margin-top: 0
 }
+
+
+/* STYLE ENTIRE GRID */
+#grid-col {
+  display: grid;
+  grid-template-columns: auto auto auto;}
+
+ 
+/* STYLE EACH GRID CELL */
+div.cell {
+  background: white;
+  border-color: white
+  border: 1px;
+  padding: 2px;
+}
