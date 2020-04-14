@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px
+	line-height: 30px;
+}
+
+header{
+	background-color: wheat;
+	text-align: center;
+	padding: 20px;
+}
+header h1{
+	color: saddlebrown;font-size: 50px
+
+
+}
+
+h1,h2 {
+	font-family: 'Baloo Paaji 2', cursive;
+}
+
+header img{
+	border-radius: 300px;
+	width: 300px;
+    border: 10px solid;
+    color: goldenrod;
+}
+main{
+	max-width: 800px ;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 100%;
+}
+h2 {
+	font-size: 35px;
+	color: goldenrod;
+	margin: 40px 0 10px;
+}
+
+a {
+	color: saddlebrown;
+
+}
+
+a:hover {
+	color:purple;
+	background-color: goldenrod;
+}
+
+footer {
+	background-color: wheat;
+	text-align: center;
+	color: saddlebrown;
+	padding: 50px;
+}
+
+footer p{margin:0px;}
+	footer a: hover{
+		opacity: .5;
+		background-color:transparent;
+	}
+
+p.caption {
+	color: #999999;
+	font-style:italic;
+	margin-top: 0
+}
